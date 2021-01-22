@@ -1,4 +1,0 @@
-google-colab
-numpy
-ipython
-opencv-python
