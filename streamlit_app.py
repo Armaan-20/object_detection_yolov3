@@ -1,3 +1,4 @@
+!pip install google-colab
 import streamlit as st
 from google.colab.patches import cv2_imshow
 from IPython.display import clear_output
